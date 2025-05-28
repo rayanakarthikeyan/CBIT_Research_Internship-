@@ -1,5 +1,4 @@
 # CBIT_Research_Internship-
-# Internship Progress
 ## Internship Progress 🚀
 
 ### ✅ Python Programming Essentials Completed
