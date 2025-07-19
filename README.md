@@ -38,7 +38,7 @@
 **Medical Abbreviation Expansion in Handwritten Text**
 
 - **Status:** Selected ✅  
-- **GitHub Repo:** [Add your project GitHub link here]
+- **GitHub Repo:** [https://github.com/rayanakarthikeyan/med-abbreviation-expander ]
 
 ---
 
