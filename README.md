@@ -37,7 +37,7 @@
 ### 📌 Project Title:
 **Medical Abbreviation Expansion in Handwritten Text**
 
-- **Status:** Selected ✅  
+- **Status:** Completed ✅  
 - **GitHub Repo:** [https://github.com/rayanakarthikeyan/med-abbreviation-expander ]
 
 ---
